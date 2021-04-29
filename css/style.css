@@ -950,6 +950,11 @@ a#scroll-to-top::after {
 
 /*------------------------------------------------------------------ Services -------------------------------------------------------------------*/
 
+.padding-services {
+	padding-right: 200px;
+	padding-left: 200px;
+}
+
 .service_blog {
     float: left;
     width: 100%;
