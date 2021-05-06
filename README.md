@@ -95,7 +95,17 @@ Being developed by Sergio Garcia
 
 #### Kickstart Scheme
 
-- []()
+- [naassom-azevedo_what-is-kickstart](https://unsplash.com/photos/Q_Sei-TqSlc)
+- [krakenimages_our-role](https://unsplash.com/photos/Y5bvRlcCx8k)
+- [razvan-chisu_kickstart-why-us](https://unsplash.com/photos/Ua-agENjmI4)
+- [bruce-mars_benefits](https://unsplash.com/photos/8YG31Xn4dSw)
+
+#### Services
+
+- [jordan-harrison_cloud](https://unsplash.com/photos/40XgDxBfYXM)
+- [sigmund_infrastructure](https://unsplash.com/photos/eTgMFFzroGc)
+- [halgatewood_web](https://unsplash.com/photos/tZc3vjPCk-Q)
+- [dollar-gill_consultancy](https://unsplash.com/photos/zzqajsfEfTc)
 
 ## 3rd Party Software
 
