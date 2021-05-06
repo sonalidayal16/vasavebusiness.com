@@ -77,19 +77,25 @@ Being developed by Sergio Garcia
 
 *Where free license raster images can be found, **no linking required***
 
+#### Home
+
 - [xps_who-is-vasave](https://unsplash.com/photos/7ZWVnVSaafY)
-
 - [jon-tyson_why-vasave?](https://unsplash.com/photos/PXB7yEM5LVs)
-
 - [andrew-neel_kickstart-home](https://unsplash.com/photos/cckf4TsHAuw)
-
 - [jordan-harrison_cloud](https://unsplash.com/photos/40XgDxBfYXM)
-
 - [sigmund_infrastructure](https://unsplash.com/photos/eTgMFFzroGc)
-
 - [halgatewood_web](https://unsplash.com/photos/tZc3vjPCk-Q)
-
 - [dollar-gill_consultancy](https://unsplash.com/photos/zzqajsfEfTc)
+
+#### About Us
+
+- [alex-kotliarskyi_about-us](https://unsplash.com/photos/QBpZGqEMsKg)
+- [ian-schneider_why-choose-us](https://unsplash.com/photos/TamMbr4okv4)
+- [johny-vino_our-solutions](https://unsplash.com/photos/R54V69BN0MI)
+
+#### Kickstart Scheme
+
+- []()
 
 ## 3rd Party Software
 
