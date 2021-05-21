@@ -347,6 +347,10 @@ button:focus {
 	color: #313131;
 }
 
+.top-header .navbar .navbar-collapse ul li a:hover {
+	color: #2564A7;
+}
+
 a.navbar-brand {
     left: 0;
     position: relative;
@@ -569,7 +573,7 @@ a.navbar-brand img {
 }
 
 .lbox-details p strong {
-	color: #70c6eb;
+	color: #2564A7;
 	font-size: 40px;
 	font-family: 'Montserrat', sans-serif;
 }
@@ -586,7 +590,7 @@ a.navbar-brand img {
 }
 
 .lbox-details a.btn:hover {
-	background: #70c6eb;
+	background: #2564A7;
 }
 
 .pogoSlider-slide {
@@ -762,7 +766,7 @@ span.icon img {
 .tooltip-1 {
 	display: inline-block;
 	position: relative;
-	color: #70c6eb;
+	color: #2564A7;
 	opacity: 1;
 }
 
@@ -809,7 +813,7 @@ span.icon img {
 }
 
 .about-main-info h2 span {
-	color: #70c6eb;
+	color: #2564A7;
 	text-decoration: underline;
 }
 
