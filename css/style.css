@@ -488,15 +488,15 @@ a.navbar-brand img {
 	font-family: 'Poppins', sans-serif;
 	font-size: 65px;
 	font-weight: 800;
-	color: #2564A7;
-	text-shadow: 5px 5px 10px #313131;
+	color: #E8E8E8;
+	text-shadow: 5px 5px 10px #B4B4B4;
 }
 
 #theme_color_l2 {
-	font-family: 'Archivo', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight: 700;
-	color: #313131;
-	text-shadow: 5px 5px 5px #2564A7;
+	color: #E8E8E8;
+	text-shadow: 2px 2px 2px #B4B4B4;
 }
 
 #theme_color_l3 {
