@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: 
+Allow: /cloud.html
+Allow: /consultancy.html
+Allow: /infrastructure.html
+Allow: /web.html
+Allow: /consultation.html
+Allow: /training.html
+Allow: /about.html
+Allow: /contact.html
+Allow: /index.html
+Allow: /kickstart-scheme.html
+Allow: /services.html
+Allow: /uk-customs.html
+Allow: /cookies-policy.pdf
+Allow: /privacy-policy.pdf
+Allow: /terms&amp;conditions.pdf
+
+Sitemap: https://www.vasavebusiness.com/sitemap.xml
