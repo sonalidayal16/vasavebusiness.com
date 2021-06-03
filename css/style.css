@@ -1961,6 +1961,10 @@ h3.small_heading {
 	margin-bottom: 30px;
 }
 
+.margin-bottom_50 {
+	margin-bottom: 50px
+}
+
 .carousel a.carousel-control-prev {
     background: #2564A7;
     opacity: 1;
