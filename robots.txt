@@ -1,16 +1,18 @@
 User-Agent: *
 Disallow: 
-Allow: /cloud.html
-Allow: /consultancy.html
-Allow: /infrastructure.html
-Allow: /web.html
-Allow: /consultation.html
-Allow: /training.html
+Allow: /uk-customs/consultation.html
+Allow: /uk-customs/training.html
 Allow: /about.html
 Allow: /contact.html
 Allow: /index.html
 Allow: /kickstart-scheme.html
 Allow: /services.html
+Allow: /services/cloud.html
+Allow: /services/cloud/google-workspace.html
+ALlow: /services/infrastructure.html
+Allow: /services/infrastructure/kaspersky.html
+Allow: /services/cybersecurity.html
+Allow: /services/consultancy.html
 Allow: /uk-customs.html
 Allow: /cookies-policy.pdf
 Allow: /privacy-policy.pdf
