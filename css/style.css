@@ -2289,7 +2289,9 @@ section.inner_banner h1 {
 	transition: 0.2s;
 }
 
-.blog_img_popular h4:hover {
+.b
+
+.blog_img_popular h5:hover {
 	transform: scale(1.05);
 }
 
