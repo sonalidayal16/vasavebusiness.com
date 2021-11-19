@@ -137,6 +137,10 @@ img {
 	height: auto;
 }
 
+#lowercase {
+	text-transform: none;
+}
+
 .dark_bg {
 	background: #000;
 }
